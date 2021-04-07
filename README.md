@@ -3,7 +3,6 @@ Problems in Image Processing
 
 Image Operator
 Image Processing in Python 
-Book - Jason M.Kinser 
 
 ## Output Red Isolation
 
